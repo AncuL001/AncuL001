@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 this is where i put links to various sites and games i'm on
 
 ## Games
-[osu!](https://osu.ppy.sh/users/2449200) [Minesweeper Online](https://minesweeper.online/player/2598969) [Jstris](https://jstris.jezevec10.com/u/AncuL) [TETR.IO](https://ch.tetr.io/u/ancul)
+[osu!](https://osu.ppy.sh/users/2449200) | [Minesweeper Online](https://minesweeper.online/player/2598969) | [Jstris](https://jstris.jezevec10.com/u/AncuL) | [TETR.IO](https://ch.tetr.io/u/ancul)
 
 ## Not Games
-[Codeforces](https://codeforces.com/profile/AncuL) [Leetcode](https://leetcode.com/AncuL001/) [Hackerrank](https://www.hackerrank.com/AncuL)
+[Codeforces](https://codeforces.com/profile/AncuL) | [Leetcode](https://leetcode.com/AncuL001/) | [Hackerrank](https://www.hackerrank.com/AncuL)
 
 
 ## Github Orgs
